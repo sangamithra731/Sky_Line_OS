@@ -165,8 +165,3 @@ Smart fallback ensures it always responds, even if the AI is unavailable.
 - Cloudinary account (free tier)
 - Google Gemini API key (free)
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/skyline-club.git
-cd skyline-club
